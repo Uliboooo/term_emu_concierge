@@ -34,10 +34,8 @@ bun run cf:dev
 3. Deploy to Cloudflare Pages when ready:
 
 ```bash
-bun run cf:deploy
+bunx wrangler pages deploy dist --project-name yout-term
 ```
-
-> `cf:deploy` is configured but **not run automatically**.
 
 ## Optional environment variables
 

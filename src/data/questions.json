@@ -1,0 +1,348 @@
+[
+  {
+    "id": 1,
+    "textIndex": 0,
+    "options": [
+      {
+        "text": {
+          "en": "Raw performance and low latency",
+          "ja": "生のパフォーマンスと低遅延",
+          "ko": "순수 성능과 낮은 지연 시간",
+          "zh-CN": "极致性能和低延迟",
+          "fr": "Performance brute et faible latence",
+          "de": "Rohleistung und geringe Latenz",
+          "es": "Rendimiento puro y baja latencia",
+          "it": "Prestazioni pure e bassa latenza",
+          "pt": "Desempenho bruto e baixa latência"
+        },
+        "scores": { "foot": 5, "alacritty": 4, "wezterm": 3 }
+      },
+      {
+        "text": {
+          "en": "Modern UI and polished workflow",
+          "ja": "モダンUIと洗練された操作感",
+          "ko": "현대적인 UI와 다듬어진 워크플로",
+          "zh-CN": "现代化界面与流畅工作流",
+          "fr": "Interface moderne et workflow soigné",
+          "de": "Moderne UI und ausgereifter Workflow",
+          "es": "Interfaz moderna y flujo pulido",
+          "it": "UI moderna e workflow curato",
+          "pt": "UI moderna e fluxo de trabalho refinado"
+        },
+        "scores": { "warp": 5, "iterm2": 4, "windows_terminal": 3 }
+      },
+      {
+        "text": {
+          "en": "Balanced speed and features",
+          "ja": "速度と機能のバランス",
+          "ko": "속도와 기능의 균형",
+          "zh-CN": "速度与功能平衡",
+          "fr": "Équilibre entre vitesse et fonctionnalités",
+          "de": "Ausgewogenes Verhältnis aus Tempo und Funktionen",
+          "es": "Equilibrio entre velocidad y funciones",
+          "it": "Bilanciamento tra velocità e funzionalità",
+          "pt": "Equilíbrio entre velocidade e recursos"
+        },
+        "scores": { "wezterm": 4, "alacritty": 3, "iterm2": 3 }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "textIndex": 1,
+    "options": [
+      {
+        "text": {
+          "en": "I tweak everything",
+          "ja": "細かく設定を追い込みたい",
+          "ko": "모든 것을 세밀하게 조정한다",
+          "zh-CN": "我会精细调整一切",
+          "fr": "Je règle tout en détail",
+          "de": "Ich passe alles bis ins Detail an",
+          "es": "Ajusto todo al detalle",
+          "it": "Ottimizzo tutto nei minimi dettagli",
+          "pt": "Ajusto tudo nos mínimos detalhes"
+        },
+        "scores": { "wezterm": 5, "alacritty": 4, "foot": 3 }
+      },
+      {
+        "text": {
+          "en": "Some tuning is enough",
+          "ja": "ある程度調整できれば十分",
+          "ko": "어느 정도 조정이면 충분하다",
+          "zh-CN": "适度可调就够了",
+          "fr": "Quelques réglages me suffisent",
+          "de": "Einige Anpassungen reichen mir",
+          "es": "Me basta con algunos ajustes",
+          "it": "Mi basta qualche regolazione",
+          "pt": "Alguns ajustes já são suficientes"
+        },
+        "scores": { "iterm2": 4, "windows_terminal": 4, "warp": 3 }
+      },
+      {
+        "text": {
+          "en": "I prefer ready-to-use defaults",
+          "ja": "すぐ使える標準設定が好き",
+          "ko": "바로 쓸 수 있는 기본 설정이 좋다",
+          "zh-CN": "我更喜欢开箱即用",
+          "fr": "Je préfère des réglages prêts à l'emploi",
+          "de": "Ich bevorzuge sofort nutzbare Standards",
+          "es": "Prefiero valores listos para usar",
+          "it": "Preferisco impostazioni pronte all'uso",
+          "pt": "Prefiro padrões prontos para uso"
+        },
+        "scores": { "warp": 5, "windows_terminal": 4, "iterm2": 3 }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "textIndex": 2,
+    "options": [
+      {
+        "text": {
+          "en": "Minimal and keyboard-first",
+          "ja": "ミニマルでキーボード中心",
+          "ko": "미니멀하고 키보드 중심",
+          "zh-CN": "极简且键盘优先",
+          "fr": "Minimaliste et orienté clavier",
+          "de": "Minimal und keyboard-first",
+          "es": "Minimalista y centrado en teclado",
+          "it": "Minimalista e orientato alla tastiera",
+          "pt": "Minimalista e focado no teclado"
+        },
+        "scores": { "foot": 5, "alacritty": 4 }
+      },
+      {
+        "text": {
+          "en": "Tabs, panes, and rich UI",
+          "ja": "タブ・ペインが充実したリッチUI",
+          "ko": "탭/패널이 풍부한 UI",
+          "zh-CN": "标签页、分屏与丰富 UI",
+          "fr": "Onglets, volets et interface riche",
+          "de": "Tabs, Splits und umfangreiche UI",
+          "es": "Pestañas, paneles e interfaz rica",
+          "it": "Schede, pannelli e interfaccia ricca",
+          "pt": "Abas, painéis e interface rica"
+        },
+        "scores": { "iterm2": 5, "windows_terminal": 4, "warp": 4 }
+      },
+      {
+        "text": {
+          "en": "Scriptable with modern rendering",
+          "ja": "モダン描画＋スクリプト性",
+          "ko": "현대적 렌더링 + 스크립트 가능",
+          "zh-CN": "现代渲染且可脚本化",
+          "fr": "Scriptable avec rendu moderne",
+          "de": "Skriptbar mit modernem Rendering",
+          "es": "Automatizable con renderizado moderno",
+          "it": "Scriptabile con rendering moderno",
+          "pt": "Scriptável com renderização moderna"
+        },
+        "scores": { "wezterm": 5, "alacritty": 3 }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "textIndex": 3,
+    "options": [
+      {
+        "text": {
+          "en": "Constantly (SSH / cloud / containers)",
+          "ja": "常に使う（SSH / クラウド / コンテナ）",
+          "ko": "항상 사용 (SSH / 클라우드 / 컨테이너)",
+          "zh-CN": "经常（SSH / 云 / 容器）",
+          "fr": "En permanence (SSH / cloud / conteneurs)",
+          "de": "Ständig (SSH / Cloud / Container)",
+          "es": "Constantemente (SSH / nube / contenedores)",
+          "it": "Costantemente (SSH / cloud / container)",
+          "pt": "Constantemente (SSH / nuvem / containers)"
+        },
+        "scores": { "wezterm": 5, "foot": 4, "iterm2": 3 }
+      },
+      {
+        "text": {
+          "en": "Sometimes",
+          "ja": "ときどき使う",
+          "ko": "가끔 사용",
+          "zh-CN": "有时",
+          "fr": "Parfois",
+          "de": "Manchmal",
+          "es": "A veces",
+          "it": "A volte",
+          "pt": "Às vezes"
+        },
+        "scores": { "windows_terminal": 4, "alacritty": 4, "iterm2": 3 }
+      },
+      {
+        "text": {
+          "en": "Rarely",
+          "ja": "ほとんど使わない",
+          "ko": "거의 사용하지 않음",
+          "zh-CN": "很少",
+          "fr": "Rarement",
+          "de": "Selten",
+          "es": "Rara vez",
+          "it": "Raramente",
+          "pt": "Raramente"
+        },
+        "scores": { "warp": 4, "windows_terminal": 3 }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "textIndex": 4,
+    "options": [
+      {
+        "text": {
+          "en": "Critical",
+          "ja": "最重要",
+          "ko": "매우 중요",
+          "zh-CN": "非常关键",
+          "fr": "Critique",
+          "de": "Entscheidend",
+          "es": "Crítica",
+          "it": "Critica",
+          "pt": "Crítica"
+        },
+        "scores": { "foot": 5, "alacritty": 5 }
+      },
+      {
+        "text": {
+          "en": "Nice to have",
+          "ja": "速いと嬉しい",
+          "ko": "빠르면 좋다",
+          "zh-CN": "有更好",
+          "fr": "Appréciable",
+          "de": "Wünschenswert",
+          "es": "Deseable",
+          "it": "Gradita",
+          "pt": "Bom ter"
+        },
+        "scores": { "wezterm": 4, "windows_terminal": 3, "iterm2": 3 }
+      },
+      {
+        "text": {
+          "en": "Not a major factor",
+          "ja": "そこまで重視しない",
+          "ko": "중요하지 않다",
+          "zh-CN": "不是主要因素",
+          "fr": "Pas un facteur majeur",
+          "de": "Kein Hauptfaktor",
+          "es": "No es un factor principal",
+          "it": "Non è un fattore principale",
+          "pt": "Não é um fator principal"
+        },
+        "scores": { "warp": 4, "iterm2": 3 }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "textIndex": 5,
+    "options": [
+      {
+        "text": {
+          "en": "Heavy CLI + tmux + scripting",
+          "ja": "CLI + tmux + スクリプト中心",
+          "ko": "CLI + tmux + 스크립트 중심",
+          "zh-CN": "重度 CLI + tmux + 脚本",
+          "fr": "CLI intensive + tmux + scripts",
+          "de": "Intensiv CLI + tmux + Scripting",
+          "es": "CLI intensivo + tmux + scripts",
+          "it": "Uso intenso di CLI + tmux + scripting",
+          "pt": "CLI pesado + tmux + scripts"
+        },
+        "scores": { "foot": 5, "alacritty": 4, "wezterm": 4 }
+      },
+      {
+        "text": {
+          "en": "Mix of CLI and GUI development tools",
+          "ja": "CLIとGUI開発ツールを併用",
+          "ko": "CLI와 GUI 개발 도구를 혼합 사용",
+          "zh-CN": "CLI 与 GUI 开发工具混合使用",
+          "fr": "Mélange CLI et outils GUI",
+          "de": "Mischung aus CLI- und GUI-Tools",
+          "es": "Mezcla de CLI y herramientas GUI",
+          "it": "Mix di strumenti CLI e GUI",
+          "pt": "Mistura de CLI e ferramentas GUI"
+        },
+        "scores": { "iterm2": 4, "warp": 4, "windows_terminal": 3 }
+      },
+      {
+        "text": {
+          "en": "Mostly PowerShell / Windows-native tools",
+          "ja": "PowerShell / Windows系ツール中心",
+          "ko": "주로 PowerShell / Windows 기본 도구 사용",
+          "zh-CN": "主要使用 PowerShell / Windows 原生工具",
+          "fr": "Surtout PowerShell / outils natifs Windows",
+          "de": "Meist PowerShell / Windows-native Tools",
+          "es": "Principalmente PowerShell / herramientas nativas de Windows",
+          "it": "Per lo più PowerShell / strumenti nativi Windows",
+          "pt": "Principalmente PowerShell / ferramentas nativas do Windows"
+        },
+        "scores": { "windows_terminal": 5, "wezterm": 2 }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "textIndex": 6,
+    "options": [
+      {
+        "text": {
+          "en": "Essential",
+          "ja": "必須",
+          "ko": "필수",
+          "zh-CN": "必需",
+          "fr": "Essentiel",
+          "de": "Unverzichtbar",
+          "es": "Esencial",
+          "it": "Essenziale",
+          "pt": "Essencial"
+        },
+        "scores": { "wezterm": 5, "iterm2": 4, "warp": 4 }
+      },
+      {
+        "text": {
+          "en": "Useful but not required",
+          "ja": "あると便利だが必須ではない",
+          "ko": "있으면 좋지만 필수는 아님",
+          "zh-CN": "有用但非必须",
+          "fr": "Utile mais non indispensable",
+          "de": "Nützlich, aber nicht zwingend",
+          "es": "Útil pero no imprescindible",
+          "it": "Utile ma non necessario",
+          "pt": "Útil, mas não obrigatório"
+        },
+        "scores": { "windows_terminal": 4, "alacritty": 3, "iterm2": 3 }
+      },
+      {
+        "text": {
+          "en": "Keep it simple",
+          "ja": "シンプルさ重視",
+          "ko": "단순함 중시",
+          "zh-CN": "保持简单",
+          "fr": "Rester simple",
+          "de": "Lieber einfach",
+          "es": "Mantenerlo simple",
+          "it": "Mantenerlo semplice",
+          "pt": "Manter simples"
+        },
+        "scores": { "foot": 4, "alacritty": 3 }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "textIndex": 7,
+    "isOSQuestion": true,
+    "options": [
+      { "text": { "en": "Windows" }, "scores": {}, "os": "Windows" },
+      { "text": { "en": "macOS" }, "scores": {}, "os": "macOS" },
+      { "text": { "en": "Linux" }, "scores": {}, "os": "Linux" }
+    ]
+  }
+]

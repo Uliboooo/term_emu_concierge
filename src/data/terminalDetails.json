@@ -1,0 +1,141 @@
+{
+  "windows_terminal": {
+    "name": "Windows Terminal",
+    "description": {
+      "en": "Microsoft’s modern first-party terminal with strong PowerShell and WSL integration.",
+      "ja": "Microsoft公式のモダンターミナル。PowerShell/WSLとの親和性が高い。"
+    },
+    "features": [
+      { "en": "GPU accelerated rendering", "ja": "GPUアクセラレーション描画" },
+      { "en": "Tabbed interface", "ja": "タブ型インターフェース" },
+      { "en": "Excellent Windows/WSL integration", "ja": "Windows/WSL連携に優れる" }
+    ],
+    "install": {
+      "Windows": {
+        "command": "winget install --id Microsoft.WindowsTerminal -e",
+        "url": "https://aka.ms/terminal"
+      }
+    }
+  },
+  "alacritty": {
+    "name": "Alacritty",
+    "description": {
+      "en": "A fast, minimal GPU-accelerated terminal with straightforward YAML configuration.",
+      "ja": "高速でシンプルなGPUアクセラレーション端末。設定はYAMLで明快。"
+    },
+    "features": [
+      { "en": "Very fast startup", "ja": "非常に高速な起動" },
+      { "en": "Cross-platform", "ja": "クロスプラットフォーム対応" },
+      { "en": "Minimal footprint", "ja": "軽量で無駄が少ない" }
+    ],
+    "install": {
+      "macOS": {
+        "command": "brew install --cask alacritty",
+        "url": "https://github.com/alacritty/alacritty"
+      },
+      "Linux": {
+        "command": "sudo apt install alacritty",
+        "url": "https://github.com/alacritty/alacritty",
+        "note": {
+          "en": "Use dnf/pacman or your distribution package manager as needed.",
+          "ja": "ディストリビューションに応じてdnf/pacman等を使用してください。"
+        }
+      },
+      "Windows": {
+        "command": "winget install --id Alacritty.Alacritty -e",
+        "url": "https://github.com/alacritty/alacritty"
+      }
+    }
+  },
+  "wezterm": {
+    "name": "WezTerm",
+    "description": {
+      "en": "A powerful terminal that combines Lua-based configuration with advanced capabilities.",
+      "ja": "Lua設定と高度な機能を両立する高機能ターミナル。"
+    },
+    "features": [
+      { "en": "Powerful customization", "ja": "高いカスタマイズ性" },
+      { "en": "Multiplexer-like panes", "ja": "マルチプレクサ風ペイン管理" },
+      { "en": "Cross-platform consistency", "ja": "OS間で一貫した操作感" }
+    ],
+    "install": {
+      "macOS": {
+        "command": "brew install --cask wezterm",
+        "url": "https://wezfurlong.org/wezterm/"
+      },
+      "Linux": {
+        "command": "curl -fsSL https://apt.fury.io/wez/gpg.key | sudo gpg --dearmor -o /usr/share/keyrings/wezterm-fury.gpg",
+        "url": "https://wezfurlong.org/wezterm/install/linux.html"
+      },
+      "Windows": {
+        "command": "winget install --id wez.wezterm -e",
+        "url": "https://wezfurlong.org/wezterm/"
+      }
+    }
+  },
+  "warp": {
+    "name": "Warp",
+    "description": {
+      "en": "A next-generation terminal with AI assistance and command-block UX.",
+      "ja": "AI補助やコマンドブロックUIを備えた次世代ターミナル。"
+    },
+    "features": [
+      { "en": "Modern command blocks", "ja": "モダンなコマンドブロック" },
+      { "en": "Collaboration features", "ja": "コラボレーション機能" },
+      { "en": "Integrated productivity tools", "ja": "生産性向上ツールを統合" }
+    ],
+    "install": {
+      "macOS": {
+        "command": "brew install --cask warp",
+        "url": "https://www.warp.dev/"
+      },
+      "Linux": {
+        "url": "https://www.warp.dev/download",
+        "note": {
+          "en": "Install from the official download page for your distribution.",
+          "ja": "公式ページからディストリビューションに合わせて導入してください。"
+        }
+      },
+      "Windows": {
+        "command": "winget install --id Warp.Warp -e",
+        "url": "https://www.warp.dev/"
+      }
+    }
+  },
+  "iterm2": {
+    "name": "iTerm2",
+    "description": {
+      "en": "A popular high-feature terminal for macOS with strong keybinding and profile support.",
+      "ja": "macOSで定番の高機能端末。キーバインドとプロファイル管理が強力。"
+    },
+    "features": [
+      { "en": "Best-in-class macOS UX", "ja": "macOSで優れたUX" },
+      { "en": "Strong profile management", "ja": "強力なプロファイル管理" },
+      { "en": "Rich shell integration", "ja": "豊富なシェル連携" }
+    ],
+    "install": {
+      "macOS": {
+        "command": "brew install --cask iterm2",
+        "url": "https://iterm2.com/"
+      }
+    }
+  },
+  "foot": {
+    "name": "foot",
+    "description": {
+      "en": "A lightweight, high-performance Linux terminal optimized for Wayland.",
+      "ja": "Wayland向けに最適化された、軽量かつ高速なLinuxターミナル。"
+    },
+    "features": [
+      { "en": "Very lightweight", "ja": "非常に軽量" },
+      { "en": "Excellent Wayland performance", "ja": "Waylandで高い描画性能" },
+      { "en": "Keyboard-first workflow", "ja": "キーボード中心の操作" }
+    ],
+    "install": {
+      "Linux": {
+        "command": "sudo apt install foot",
+        "url": "https://codeberg.org/dnkl/foot"
+      }
+    }
+  }
+}

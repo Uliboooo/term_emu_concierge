@@ -1,0 +1,90 @@
+[
+  {
+    "en": "What matters most in your terminal experience?",
+    "ja": "ターミナルに最も求めるものは何ですか？",
+    "ko": "터미널 사용 경험에서 가장 중요한 것은 무엇인가요?",
+    "zh-CN": "你最看重终端的哪一点？",
+    "fr": "Qu'est-ce qui compte le plus dans votre expérience terminal ?",
+    "de": "Was ist dir bei deinem Terminal am wichtigsten?",
+    "es": "¿Qué es lo más importante en tu experiencia con el terminal?",
+    "it": "Cosa conta di più nella tua esperienza d'uso del terminale?",
+    "pt": "O que mais importa na sua experiência com terminal?"
+  },
+  {
+    "en": "How important is deep customization?",
+    "ja": "深いカスタマイズ性はどれくらい重要ですか？",
+    "ko": "세부 커스터마이징은 얼마나 중요한가요?",
+    "zh-CN": "深度自定义对你有多重要？",
+    "fr": "Quelle importance accordez-vous à la personnalisation avancée ?",
+    "de": "Wie wichtig ist dir tiefgehende Anpassbarkeit?",
+    "es": "¿Qué tan importante es la personalización profunda?",
+    "it": "Quanto è importante la personalizzazione avanzata?",
+    "pt": "Quão importante é a personalização avançada?"
+  },
+  {
+    "en": "Which interface style do you prefer?",
+    "ja": "どのUIスタイルを好みますか？",
+    "ko": "어떤 인터페이스 스타일을 선호하나요?",
+    "zh-CN": "你偏好哪种界面风格？",
+    "fr": "Quel style d'interface préférez-vous ?",
+    "de": "Welchen Oberflächenstil bevorzugst du?",
+    "es": "¿Qué estilo de interfaz prefieres?",
+    "it": "Quale stile di interfaccia preferisci?",
+    "pt": "Qual estilo de interface você prefere?"
+  },
+  {
+    "en": "How often do you work with remote systems?",
+    "ja": "リモート環境での作業頻度は？",
+    "ko": "원격 시스템 작업 빈도는 어느 정도인가요?",
+    "zh-CN": "你使用远程系统的频率如何？",
+    "fr": "À quelle fréquence travaillez-vous sur des systèmes distants ?",
+    "de": "Wie oft arbeitest du mit entfernten Systemen?",
+    "es": "¿Con qué frecuencia trabajas con sistemas remotos?",
+    "it": "Quanto spesso lavori con sistemi remoti?",
+    "pt": "Com que frequência você trabalha com sistemas remotos?"
+  },
+  {
+    "en": "How much does startup speed matter?",
+    "ja": "起動速度はどの程度重要ですか？",
+    "ko": "시작 속도는 얼마나 중요한가요?",
+    "zh-CN": "启动速度对你有多重要？",
+    "fr": "Quelle importance a la vitesse de démarrage ?",
+    "de": "Wie wichtig ist die Startgeschwindigkeit?",
+    "es": "¿Cuánto importa la velocidad de arranque?",
+    "it": "Quanto conta la velocità di avvio?",
+    "pt": "Quão importante é a velocidade de inicialização?"
+  },
+  {
+    "en": "What best describes your workflow?",
+    "ja": "あなたのワークフローに最も近いのは？",
+    "ko": "당신의 작업 방식에 가장 가까운 것은?",
+    "zh-CN": "哪项最符合你的工作流？",
+    "fr": "Quelle option décrit le mieux votre workflow ?",
+    "de": "Welche Beschreibung passt am besten zu deinem Workflow?",
+    "es": "¿Qué describe mejor tu flujo de trabajo?",
+    "it": "Quale descrizione rappresenta meglio il tuo workflow?",
+    "pt": "O que melhor descreve seu fluxo de trabalho?"
+  },
+  {
+    "en": "How important are advanced extras (GPU rendering, split panes, shell integration)?",
+    "ja": "高度な機能（GPU描画、分割ペイン、シェル連携）は重要ですか？",
+    "ko": "고급 기능(GPU 렌더링, 분할 패널, 셸 통합)은 얼마나 중요한가요?",
+    "zh-CN": "高级功能（GPU 渲染、分屏、Shell 集成）有多重要？",
+    "fr": "Quelle importance ont les fonctionnalités avancées (GPU, splits, intégration shell) ?",
+    "de": "Wie wichtig sind erweiterte Funktionen (GPU, Splits, Shell-Integration)?",
+    "es": "¿Qué tan importantes son los extras avanzados (GPU, paneles, integración shell)?",
+    "it": "Quanto sono importanti le funzioni avanzate (GPU, split pane, integrazione shell)?",
+    "pt": "Quão importantes são os recursos avançados (GPU, painéis, integração shell)?"
+  },
+  {
+    "en": "Select your operating system",
+    "ja": "使用しているOSを選択してください",
+    "ko": "운영체제를 선택하세요",
+    "zh-CN": "请选择你的操作系统",
+    "fr": "Sélectionnez votre système d'exploitation",
+    "de": "Wähle dein Betriebssystem",
+    "es": "Selecciona tu sistema operativo",
+    "it": "Seleziona il tuo sistema operativo",
+    "pt": "Selecione seu sistema operacional"
+  }
+]
