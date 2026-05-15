@@ -1,6 +1,6 @@
 # Terminal Emulator Selector
 
-React + TypeScript + Vite app, prepared for publishing on **Cloudflare Workers** (static assets mode).
+React + TypeScript + Vite app, prepared for publishing on **Cloudflare Pages**.
 
 ## Local development
 
@@ -15,9 +15,9 @@ bun run dev
 bun run build
 ```
 
-## Cloudflare Workers setup
+## Cloudflare Pages setup
 
-This project includes `wrangler.jsonc` configured to serve the built SPA from `dist/`.
+This project includes `wrangler.jsonc` configured for Pages with `dist` as the build output directory.
 
 1. Build the app:
 
@@ -25,13 +25,13 @@ This project includes `wrangler.jsonc` configured to serve the built SPA from `d
 bun run build
 ```
 
-2. Test with Workers runtime locally:
+2. Test with Pages runtime locally:
 
 ```bash
 bun run cf:dev
 ```
 
-3. Deploy when ready:
+3. Deploy to Cloudflare Pages when ready:
 
 ```bash
 bun run cf:deploy
